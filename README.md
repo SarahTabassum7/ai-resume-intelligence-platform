@@ -228,7 +228,7 @@ All sample data is synthetic and contains no real personal information.
 
 10) Contact
 
-Author: Tabassum Sarah
+Author: Sarah Tabassum 
 LinkedIn: https://www.linkedin.com/in/sarah-tabassum-b2000b388/
 Portfolio: https://github.com/SarahTabassum7
 
