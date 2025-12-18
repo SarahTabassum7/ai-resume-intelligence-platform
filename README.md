@@ -52,7 +52,7 @@ flowchart LR
   J --> F
 ---
 
-4) Tools & Technology Stack
+## 4) Tools & Technology Stack
 Backend & APIs
 
 Spring Boot 3.5.0 – Core application framework
@@ -137,7 +137,7 @@ Pull request–based workflows for controlled code reviews and merges
 
 README-driven documentation to capture architecture and design decisions
 
-5) Key Design Decisions & Trade-offs
+## 5) Key Design Decisions & Trade-offs
 Standardized Schema vs Free-Form Summaries
 
 Chosen: Standardized candidate profile schema with optional narrative summaries
@@ -170,7 +170,7 @@ Reason: Resumes contain sensitive personal information
 
 Trade-off: Limits long-term data reuse for training purposes
 
-6) Measurable Impact
+## 6) Measurable Impact
 
 During implementation and validation, the platform demonstrated:
 
@@ -186,7 +186,7 @@ Improved recruiter efficiency and consistency in shortlisting decisions
 
 These outcomes enabled faster hiring workflows and more objective, data-driven decision-making.
 
-7) What I Led (Leadership Evidence)
+## 7) What I Led (Leadership Evidence)
 
 I contributed across the platform lifecycle, including:
 
@@ -204,7 +204,7 @@ Creating documentation and walkthroughs for technical and non-technical stakehol
 
 This work extended beyond assigned tasks and focused on platform-level outcomes.
 
-8) Lessons Learned
+## 8) Lessons Learned
 
 Explainability drives adoption — recruiters trust systems they can understand and correct
 
@@ -214,7 +214,7 @@ AI works best with guardrails — hybrid models outperform fully automated pipel
 
 Privacy must be intentional — access control and auditability cannot be afterthoughts
 
-9) Repository Structure
+## 9) Repository Structure
 /docs
   ├── architecture.md
   ├── data-model.md
@@ -226,7 +226,7 @@ README.md
 
 All sample data is synthetic and contains no real personal information.
 
-10) Contact
+## 10) Contact
 
 Author: Sarah Tabassum 
 LinkedIn: https://www.linkedin.com/in/sarah-tabassum-b2000b388/
