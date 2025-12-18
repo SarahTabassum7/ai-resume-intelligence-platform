@@ -1,0 +1,88 @@
+{
+  "candidateId": "c7f2a9b1-8f34-4a6e-9b21-91d2e8b9a001",
+  "profileStatus": "Reviewed",
+  "personalDetails": {
+    "firstName": "Alex",
+    "lastName": "Morgan",
+    "email": "alex.morgan@example.com",
+    "phone": "+1-555-0100",
+    "location": "Austin, TX"
+  },
+  "professionalSummary": "Data-driven analytics professional with experience building reporting, automation, and AI-assisted hiring solutions across cross-functional teams.",
+  "totalExperienceYears": 5.5,
+  "currentTitle": "Business Data Analyst",
+  "experience": [
+    {
+      "experienceId": "exp-001",
+      "companyName": "Innovatech Solutions",
+      "jobTitle": "Senior Business Analyst",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "isCurrent": true,
+      "responsibilities": "Led analytics initiatives, defined KPIs, and collaborated with engineering teams to deliver data-driven insights."
+    },
+    {
+      "experienceId": "exp-002",
+      "companyName": "DataCore Services",
+      "jobTitle": "Business Analyst",
+      "startDate": "2018-07-01",
+      "endDate": "2021-05-31",
+      "isCurrent": false,
+      "responsibilities": "Translated business requirements into technical specifications and supported dashboard development."
+    }
+  ],
+  "education": [
+    {
+      "educationId": "edu-001",
+      "institution": "State University",
+      "degree": "Master of Science",
+      "fieldOfStudy": "Business Analytics",
+      "graduationYear": 2018
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "skill-001",
+      "skillName": "SQL",
+      "skillCategory": "Technical",
+      "proficiencyLevel": "Advanced",
+      "extractedByAI": true
+    },
+    {
+      "skillId": "skill-002",
+      "skillName": "Power BI",
+      "skillCategory": "Technical",
+      "proficiencyLevel": "Advanced",
+      "extractedByAI": true
+    },
+    {
+      "skillId": "skill-003",
+      "skillName": "Requirements Analysis",
+      "skillCategory": "Functional",
+      "proficiencyLevel": "Advanced",
+      "extractedByAI": false
+    }
+  ],
+  "certifications": [
+    {
+      "certificationId": "cert-001",
+      "certificationName": "Microsoft Power BI Data Analyst",
+      "issuingOrganization": "Microsoft",
+      "issueYear": 2022
+    }
+  ],
+  "resumeMetadata": {
+    "resumeId": "res-001",
+    "fileName": "alex_morgan_resume.pdf",
+    "fileType": "PDF",
+    "uploadedAt": "2024-03-12T10:15:30Z",
+    "parsedAt": "2024-03-12T10:16:05Z"
+  },
+  "aiExtractionMetadata": {
+    "extractionMethod": "Hybrid",
+    "extractionConfidence": 0.89,
+    "needsReview": false,
+    "lastReviewedBy": "recruiter_102",
+    "lastReviewedAt": "2024-03-12T11:00:00Z"
+  }
+}
