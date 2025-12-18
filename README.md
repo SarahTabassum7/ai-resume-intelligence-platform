@@ -39,8 +39,6 @@ The solution was designed with a strong emphasis on:
 
 ## 3) High-Level Architecture
 
-## 3) High-Level Architecture
-
 ```mermaid
 flowchart LR
   A[Resume Upload] --> B[Secure File Storage]
