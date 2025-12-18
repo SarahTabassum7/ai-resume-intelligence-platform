@@ -39,6 +39,9 @@ The solution was designed with a strong emphasis on:
 
 ## 3) High-Level Architecture
 
+## 3) High-Level Architecture
+
+```mermaid
 flowchart LR
   A[Resume Upload] --> B[Secure File Storage]
   B --> C[Text Extraction / Parsing]
@@ -50,7 +53,7 @@ flowchart LR
   F --> I[Analytics & Reporting]
   H --> J[Recruiter Feedback & Corrections]
   J --> F
----
+```
 
 ## 4) Tools & Technology Stack
 Backend & APIs
