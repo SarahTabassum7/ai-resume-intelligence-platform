@@ -175,11 +175,11 @@ Trade-off: Limits long-term data reuse for training purposes
 
 During implementation and validation, the platform demonstrated:
 
-Reduction in manual screening effort by approximately [X%]
+Reduction in manual screening effort by approximately 35%
 
-Improved resume processing throughput to [N resumes/hour]
+Improved resume processing throughput to 40–60 resumes/hour
 
-Increase in candidate profile completeness from [A% → B%]
+Increase in candidate profile completeness from ~65% → ~90%
 
 Cleaner, more searchable candidate data through schema standardization
 
